@@ -19,7 +19,6 @@
 
 <br />
 <br />
-<br />
 
 ### Connect with me:
 
@@ -36,7 +35,6 @@
   </a>
 </div>
 
-<br />
 <br />
 
 ### Languages and Tools:
