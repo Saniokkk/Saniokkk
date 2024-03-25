@@ -18,6 +18,10 @@
 - 🏋 I love cars
 </div>
 
+<br />
+<br />
+<br />
+
 ### Connect with me:
 
 <div align="left">
@@ -59,10 +63,7 @@
 </div>
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
+
 
   <div align="left">
     <br />
