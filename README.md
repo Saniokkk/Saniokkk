@@ -4,11 +4,16 @@
 
 <h3 align="center">Front-End React developer from Ukraine</h3>
 
-<div class="image" align="center">
+<span class="image" align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3k1OHE1bHFhM2FpendraWMxdTQ1cTBlYnFxbHk4eWk3bDEyMmJrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
   alt="coding gif"
   style="width: 600px; height: 350px; max-width: 94%;" />
-</div>
+  <span align="left">
+    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saniokkk&langs_count=8&layout=compact&theme=radical" />
+        <br />
+    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Saniokkk&show_icons=true&theme=radical" />
+  </span>
+</span>
 
 - 🧘 I like write code
 - 🥅 I am constantly learning new things
@@ -40,15 +45,6 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" />
 
-<br />
-<details>
-        <summary>:zap: Statistics:</summary>
-  <div align="left">
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saniokkk&langs_count=8&layout=compact&theme=radical" />
-        <br />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Saniokkk&show_icons=true&theme=radical" />
-  </div>
-</details>
 
 [linkedin]: https://www.linkedin.com/in/kashirin-aleksandr-244b49237/
 [google]: kashirin.alexsandr91@gmail.com
