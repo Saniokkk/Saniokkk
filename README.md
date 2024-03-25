@@ -17,13 +17,14 @@
   </span>
     </details>
 </span>
+<div>
 <br />
 - 🧘 I like write code
 <br />
 - 🥅 I am constantly learning new things
 <br />
 - 🏋 I love cars
-
+</div>
 ### Connect with me:
 <div align="left">
   <a href="https://t.me/Kashirin_Aleksandr" target="_blank">
