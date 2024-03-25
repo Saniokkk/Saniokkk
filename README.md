@@ -7,7 +7,7 @@
 <span class="image" align="left">
   <img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3k1OHE1bHFhM2FpendraWMxdTQ1cTBlYnFxbHk4eWk3bDEyMmJrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
   alt="coding gif"
-  style="width: 500px; height: 300px; max-width: 94%;" />
+  style="width: 550px; height: 400px; max-width: 94%;" />
   <details>
         <summary>:zap: Statistics:</summary>
   <span align="left">
@@ -25,7 +25,9 @@
 <br />
 - 🏋 I love cars
 </div>
+
 ### Connect with me:
+
 <div align="left">
   <a href="https://t.me/Kashirin_Aleksandr" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram logo"/>
