@@ -3,7 +3,7 @@
 ![]()
 
 <h3 align="left">Front-End React developer from Ukraine</h3>
-
+<div>
 <span class="image" align="left">
   <img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3k1OHE1bHFhM2FpendraWMxdTQ1cTBlYnFxbHk4eWk3bDEyMmJrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
   alt="coding gif"
@@ -49,7 +49,7 @@
 [linkedin]: https://www.linkedin.com/in/kashirin-aleksandr-244b49237/
 [google]: kashirin.alexsandr91@gmail.com
 [instagram]: https://www.instagram.com/sania.kashirin/
-
+</div>
 <br />
 <details>
         <summary>:zap: Statistics:</summary>
