@@ -58,9 +58,6 @@
 [google]: kashirin.alexsandr91@gmail.com
 [instagram]: https://www.instagram.com/sania.kashirin/
 </div>
-<br />
-<br />
-
 
   <div align="left">
     <br />
