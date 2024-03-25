@@ -8,14 +8,6 @@
   <img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3k1OHE1bHFhM2FpendraWMxdTQ1cTBlYnFxbHk4eWk3bDEyMmJrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
   alt="coding gif"
   style="width: 550px; height: 400px; max-width: 94%;" />
-  <details>
-        <summary>:zap: Statistics:</summary>
-  <span align="left">
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saniokkk&langs_count=8&layout=compact&theme=radical" />
-<br />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Saniokkk&show_icons=true&theme=radical" />
-  </span>
-    </details>
 </span>
 <div align="left">
 <br />
@@ -57,4 +49,13 @@
 [linkedin]: https://www.linkedin.com/in/kashirin-aleksandr-244b49237/
 [google]: kashirin.alexsandr91@gmail.com
 [instagram]: https://www.instagram.com/sania.kashirin/
+
+<details>
+        <summary>:zap: Statistics:</summary>
+  <span align="left">
+    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saniokkk&langs_count=8&layout=compact&theme=radical" />
+<br />
+    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Saniokkk&show_icons=true&theme=radical" />
+  </span>
+    </details>
 
