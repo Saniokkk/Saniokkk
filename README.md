@@ -4,11 +4,11 @@
 
 <h3 align="left">Front-End React developer from Ukraine</h3>
 
-<span style="display: flex" class="image" align="left">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3k1OHE1bHFhM2FpendraWMxdTQ1cTBlYnFxbHk4eWk3bDEyMmJrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
+<span class="image" align="left">
+  <img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3k1OHE1bHFhM2FpendraWMxdTQ1cTBlYnFxbHk4eWk3bDEyMmJrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
   alt="coding gif"
   style="width: 500px; height: 300px; max-width: 94%;" />
-  <span align="right">
+  <span align="left">
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saniokkk&langs_count=8&layout=compact&theme=radical" />
 <br />
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Saniokkk&show_icons=true&theme=radical" />
