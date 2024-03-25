@@ -50,6 +50,7 @@
 [google]: kashirin.alexsandr91@gmail.com
 [instagram]: https://www.instagram.com/sania.kashirin/
 
+<br />
 <details>
         <summary>:zap: Statistics:</summary>
   <div align="left">
