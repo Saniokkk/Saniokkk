@@ -10,7 +10,6 @@
   style="width: 550px; height: 400px; max-width: 94%;" />
 </span>
 <div align="left">
-<br />
 - 🧘 I like write code
 <br />
 - 🥅 I am constantly learning new things
