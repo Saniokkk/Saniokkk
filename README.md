@@ -17,7 +17,7 @@
   </span>
     </details>
 </span>
-<div>
+<div align="left">
 <br />
 - 🧘 I like write code
 <br />
