@@ -12,7 +12,7 @@
 <br />
 - 🥅 I am constantly learning new things
 <br />
-- 🏋 I love cars
+- 🚙 I love cars
 </div>
 
 <br />
