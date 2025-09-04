@@ -37,6 +37,7 @@
 
 ### Languages and Tools:
 
+<img align="left" alt="TypeScript" width="26px" src="https://procoders.tech/wp-content/uploads/2020/11/Typescript_logo_2020.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://procoders.tech/wp-content/uploads/2020/11/Typescript_logo_2020.svg" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -59,11 +60,16 @@
 <br />
 <br />
 <details>
-        <summary>:zap: Statistics:</summary>
+  <summary>:zap: Statistics:</summary>
   <div align="left">
     <br />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saniokkk&langs_count=8&layout=compact&theme=radical" />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Saniokkk&show_icons=true&theme=radical" />
+    <!-- Старі статистики -->
+    <img align="left" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saniokkk&langs_count=8&layout=compact&theme=radical" />
+    <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Saniokkk&show_icons=true&theme=radical" />
+    
+    <br /><br />
+    <!-- Новий графік активності -->
+    ![Alex's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Saniokkk&bg_color=000000&color=FFFFFF&line=00FF00&point=FF0000&hide_border=true)
   </div>
 </details>
 
