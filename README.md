@@ -60,16 +60,10 @@
 <br />
 <br />
 <details>
-  <summary>:zap: Statistics:</summary>
+        <summary>:zap: Statistics:</summary>
   <div align="left">
     <br />
-    <!-- Старі статистики -->
-    <img align="left" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saniokkk&langs_count=8&layout=compact&theme=radical" />
-    <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Saniokkk&show_icons=true&theme=radical" />
-    
-    <br /><br />
-    <!-- Новий графік активності -->
-    ![Alex's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Saniokkk&bg_color=000000&color=FFFFFF&line=00FF00&point=FF0000&hide_border=true)
+    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saniokkk&langs_count=10&layout=compact&theme=radical" />
+    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Saniokkk&show_icons=true&theme=radical" />
   </div>
 </details>
-
